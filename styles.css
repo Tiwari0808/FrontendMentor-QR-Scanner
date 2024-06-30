@@ -48,3 +48,9 @@ body{
     font-size: 13px;
     margin: 1vh 0 2vh o;
 }
+
+@media (min-width:500px) {
+    .start{
+        min-width: 400px;
+    }
+}
